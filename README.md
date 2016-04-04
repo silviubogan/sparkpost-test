@@ -29,6 +29,7 @@ Other relevant links:
    and the template substitutions (merge vars) [are more
    powerful](https://developers.sparkpost.com/api/#/introduction/substitutions-reference)
    than SendGrid's.
+
 ### Disadvantages
 1. The sending domains must be verified using the DNS records, which is different
    from SendGrid where domain verification is optional. With the sandbox domain

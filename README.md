@@ -10,8 +10,9 @@ said that the content of the transmissions (emails) should not go over 20MBs. If
 you are using templates, then that content represents the ID of the currently
 used template, the content of the attachments and of the inline content.
 
-To run `example.js` first run `npm install` in its directory and complete the
-values of the first 4 variables declared at the beginning of the script.
+To run [`example.js`](example.js) first run `npm install` in its directory and
+complete the values of the first 4 variables declared at the beginning of the
+script.
 
 Other relevant links:
 
@@ -21,8 +22,8 @@ Other relevant links:
 ## Other arguments
 ### Advantages
 1. SparkPost is based on the Momentum platform used by Facebook, between others
-   such as LinkedIn, Twitter, PayPal, Oracle, Pinterest. "25% of global email is
-   send through our software."
+   such as LinkedIn, Twitter, PayPal, Oracle and Pinterest. "25% of global email
+   is send through our software."
 2. [Here](http://blog.mailchimp.com/important-changes-to-mandrill/) MailChimp
    recommends SparkPost.
 3. The web UI looks similar to Mandrill, the API is cleaner than SendGrid's API

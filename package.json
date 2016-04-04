@@ -1,0 +1,26 @@
+{
+  "name": "sparkpost-test",
+  "version": "1.0.0",
+  "description": "Testing SparkPost NodeJS API.",
+  "main": "example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silviubogan/sparkpost-test.git"
+  },
+  "keywords": [
+    "test",
+    "SparkPost"
+  ],
+  "author": "Silviu Bogan <silviubogan@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silviubogan/sparkpost-test/issues"
+  },
+  "homepage": "https://github.com/silviubogan/sparkpost-test#readme",
+  "dependencies": {
+    "sparkpost": "^1.2.0"
+  }
+}
